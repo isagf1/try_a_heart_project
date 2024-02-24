@@ -42,7 +42,8 @@ p {
 .up{
 display: flex;
 flex-wrap: wrap;
-max-width: 1100px;
-margin: 500 auto;
+min-height: 200vh;
+max-width: 350px;
+margin: 600 auto;
 padding: 4%;
 }
