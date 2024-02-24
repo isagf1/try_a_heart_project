@@ -1,0 +1,48 @@
+@charset "UTF-8";
+body {
+background-color: #c2b7c9;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo {
+    text-align: center;
+}
+h1 {
+ color: rgba(0, 0, 0, 0.918);
+
+}
+
+h2 {
+color: rgb(80, 12, 12);
+
+}
+
+p {
+    text-align: justify;
+}
+
+.instagram-button {
+    background-color: #405DE6;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+.up{
+display: flex;
+flex-wrap: wrap;
+max-width: 1100px;
+margin: 500 auto;
+padding: 4%;
+}
